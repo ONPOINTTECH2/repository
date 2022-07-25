@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jul 08 13:52:15 CST 2022
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1657259533315
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.aspose\:aspose-barcode\:pom\:19.8 from/to mvnrepository (http\://repo1.maven.org/maven2)\: transfer failed for http\://repo1.maven.org/maven2/com/aspose/aspose-barcode/19.8/aspose-barcode-19.8.pom, status\: 501 HTTPS Required
+https\://repo.maven.apache.org/maven2/.lastUpdated=1657259533607
+@default-mvnrepository-http\://repo1.maven.org/maven2/.lastUpdated=1657259534056
+https\://artifact.aspose.com/repo/.lastUpdated=1657259535647
+https\://repo.maven.apache.org/maven2/.error=

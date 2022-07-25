@@ -1,9 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Jun 08 13:31:30 CST 2022
-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1654666289551
-https\://repo.maven.apache.org/maven2/.lastUpdated=1654666290678
-https\://oss.sonatype.org/content/repositories/snapshots/.error=
-https\://repo.spring.io/milestone/.error=
-https\://repo.spring.io/milestone/.lastUpdated=1654666289925
-https\://repo.spring.io/snapshot/.error=
-https\://repo.spring.io/snapshot/.lastUpdated=1654666290185
+#Fri Jul 08 13:50:30 CST 2022
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1657259430370
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1657259430831

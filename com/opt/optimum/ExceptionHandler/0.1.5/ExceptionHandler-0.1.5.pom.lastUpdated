@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 25 23:21:56 CST 2022
+615a271ae18e96128cff6c1170d032e95ce7f4aa@default-snapshots-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1658762514510
+https\://repo.maven.apache.org/maven2/.lastUpdated=1658762515698
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=Could not transfer artifact com.opt.optimum\:ExceptionHandler\:pom\:0.1.5 from/to snapshots (http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum)\: transfer failed for http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/com/opt/optimum/ExceptionHandler/0.1.5/ExceptionHandler-0.1.5.pom
+@default-mvnrepository-http\://repo1.maven.org/maven2/.lastUpdated=1658762516123
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.opt.optimum\:ExceptionHandler\:pom\:0.1.5 from/to mvnrepository (http\://repo1.maven.org/maven2)\: transfer failed for http\://repo1.maven.org/maven2/com/opt/optimum/ExceptionHandler/0.1.5/ExceptionHandler-0.1.5.pom, status\: 501 HTTPS Required
+https\://repo.maven.apache.org/maven2/.error=
+615a271ae18e96128cff6c1170d032e95ce7f4aa@default-central-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1658762514503

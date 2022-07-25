@@ -1,0 +1,33 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.opt.optimum</groupId>
+  <artifactId>cmis-client</artifactId>
+  <version>1.0.4</version>
+  <name>CMIS client for interaction with content management</name>
+  <properties>
+    <chemistry.client.version>1.1.0</chemistry.client.version>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.chemistry.opencmis</groupId>
+      <artifactId>chemistry-opencmis-client-impl</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+    </dependency>
+  </dependencies>
+  <distributionManagement>
+    <repository>
+      <id>optimum-central</id>
+      <name>com.opt.optimum</name>
+      <url>http://maven-repo.onpointtech.com/artifactory/com.opt.optimum</url>
+    </repository>
+  </distributionManagement>
+  <parent>
+    <groupId>com.opt.optimum</groupId>
+    <artifactId>service-parent</artifactId>
+    <version>0.0.1</version>
+    <relativePath />
+  </parent>
+</project>

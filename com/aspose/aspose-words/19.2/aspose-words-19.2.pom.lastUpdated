@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jul 08 13:52:12 CST 2022
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1657259527999
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.aspose\:aspose-words\:pom\:19.2 from/to mvnrepository (http\://repo1.maven.org/maven2)\: transfer failed for http\://repo1.maven.org/maven2/com/aspose/aspose-words/19.2/aspose-words-19.2.pom, status\: 501 HTTPS Required
+https\://repo.maven.apache.org/maven2/.lastUpdated=1657259528226
+@default-mvnrepository-http\://repo1.maven.org/maven2/.lastUpdated=1657259529404
+https\://artifact.aspose.com/repo/.lastUpdated=1657259532844
+https\://repo.maven.apache.org/maven2/.error=

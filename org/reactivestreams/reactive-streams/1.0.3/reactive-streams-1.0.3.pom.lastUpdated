@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 25 17:09:33 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1658740173000
+http\://0.0.0.0/.error=Could not transfer artifact org.reactivestreams\:reactive-streams\:pom\:1.0.3 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [central (http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum, default, releases), snapshots (http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum, default, releases+snapshots), mvnrepository (http\://repo1.maven.org/maven2, default, releases)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1658740172602
