@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 02 13:42:15 CST 2022
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1659418933226
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.opt.optimum\:MultiThread-Shared\:pom\:0.0.1 from/to mvnrepository (http\://repo1.maven.org/maven2)\: Failed to transfer file\: http\://repo1.maven.org/maven2/com/opt/optimum/MultiThread-Shared/0.0.1/MultiThread-Shared-0.0.1.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1659418934720
+@default-mvnrepository-http\://repo1.maven.org/maven2/.lastUpdated=1659418935609
+https\://repo.maven.apache.org/maven2/.error=

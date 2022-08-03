@@ -1,5 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jul 25 14:03:47 CST 2022
-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:3.0.0 from/to snapshots (http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum)\: transfer failed for http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/org/apache/maven/plugins/maven-clean-plugin/3.0.0/maven-clean-plugin-3.0.0.pom
-615a271ae18e96128cff6c1170d032e95ce7f4aa@default-central-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1658729027442
-615a271ae18e96128cff6c1170d032e95ce7f4aa@default-snapshots-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1658729027443
+#Tue Aug 02 00:11:58 CST 2022
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1659370318475
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=

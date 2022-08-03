@@ -1,5 +1,4 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jul 25 14:08:06 CST 2022
-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=Could not transfer artifact org.apache.maven.plugins\:maven-source-plugin\:pom\:3.0.1 from/to snapshots (http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum)\: transfer failed for http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/org/apache/maven/plugins/maven-source-plugin/3.0.1/maven-source-plugin-3.0.1.pom
-615a271ae18e96128cff6c1170d032e95ce7f4aa@default-central-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1658729286724
-615a271ae18e96128cff6c1170d032e95ce7f4aa@default-snapshots-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1658729286729
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 02 09:53:47 CST 2022
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1659405227128
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=

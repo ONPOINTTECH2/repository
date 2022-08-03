@@ -1,6 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jul 25 14:12:56 CST 2022
-615a271ae18e96128cff6c1170d032e95ce7f4aa@default-central-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1658729576456
-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=Could not transfer artifact org.eclipse.jgit\:org.eclipse.jgit.http.apache\:pom\:4.11.0.201803080745-r from/to snapshots (http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum)\: transfer failed for http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/org/eclipse/jgit/org.eclipse.jgit.http.apache/4.11.0.201803080745-r/org.eclipse.jgit.http.apache-4.11.0.201803080745-r.pom
-615a271ae18e96128cff6c1170d032e95ce7f4aa@default-snapshots-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1658729576459
-https\://repo.maven.apache.org/maven2/.lastUpdated=1658729576758
+#Fri Jul 29 09:41:28 CST 2022
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1659058887868
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1659058888331

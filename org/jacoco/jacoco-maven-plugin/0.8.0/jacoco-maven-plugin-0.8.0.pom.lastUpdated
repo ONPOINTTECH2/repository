@@ -1,5 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jul 25 14:03:47 CST 2022
-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=Could not transfer artifact org.jacoco\:jacoco-maven-plugin\:pom\:0.8.0 from/to snapshots (http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum)\: transfer failed for http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/org/jacoco/jacoco-maven-plugin/0.8.0/jacoco-maven-plugin-0.8.0.pom
-615a271ae18e96128cff6c1170d032e95ce7f4aa@default-central-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1658729027438
-615a271ae18e96128cff6c1170d032e95ce7f4aa@default-snapshots-http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1658729027439
+#Tue Aug 02 00:10:50 CST 2022
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.lastUpdated=1659370250950
+http\://maven-repo.onpointtech.com/artifactory/com.opt.optimum/.error=
